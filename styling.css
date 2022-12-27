@@ -1,0 +1,39 @@
+* {
+    border: 1px solid red;
+}
+
+.main {
+    width: 375px;
+    height: 600px;
+}
+
+.first {
+    background-color: aqua;
+    width: 300px;
+    height: 40px;
+    margin: auto;
+}
+
+.second {
+    background-color: blue;
+    width: 300px;
+    height: 60px;    
+    margin: auto;
+}
+
+.third {
+    background-color: green;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* .third-1, .third-2, .third-3, .third-4 {
+    width: 30px;
+    height: 40px;
+}
+ */

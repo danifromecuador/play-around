@@ -1,6 +1,34 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    border: 1px solid red;
+  margin: 0;
+  padding: 0;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+
+.box1, .box2, .box3 {
+  width: 200px;
+  height: 200px;
+  font-size: 32px;
+}
+
+.container {
+  width: 1000px;
+  height: 1000px;
+}
+
+
+.box1 {
+  background-color: red;
+  float: left;
+}
+
+.box2 {
+  background-color: green;
+  float: left;
+  margin: 0 80px;
+}
+
+.box3 {
+  background-color: blue;
+  float: left;
 }
